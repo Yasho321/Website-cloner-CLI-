@@ -1,4 +1,4 @@
-```markdown
+
 # Website Cloner CLI
 
 A simple, powerful command-line tool to **clone the UI of any website** (HTML, CSS, JS) by providing the site link. Built with Node.js, Puppeteer, OpenAI, and Cloudinary.
@@ -82,5 +82,5 @@ Watch how it works step-by-step:
 ---
 
 Pull requests and feedback are welcome!
-```
+\
 
