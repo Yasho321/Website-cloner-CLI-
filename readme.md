@@ -58,10 +58,7 @@ A simple, powerful command-line tool to **clone the UI of any website** (HTML, C
 
 Watch how it works step-by-step:
 
-<video width="1920" height="1080" controls>
-  <source src="./assets/Website cloner.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Demo Video](https://drive.google.com/file/d/1CJ25ZlfzzkIoVC13ZcvQ_ueT5BcIZkJh/view?usp=sharing)
 
 ---
 
@@ -82,5 +79,5 @@ Watch how it works step-by-step:
 ---
 
 Pull requests and feedback are welcome!
-\
+
 
